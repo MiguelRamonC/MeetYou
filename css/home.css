@@ -1,0 +1,30 @@
+/*
+* Colores:
+* principal: #28abb9
+* secundario: #2d6187
+* claro: #effad3
+* claro2: #effad3
+*/
+
+
+div{
+    margin: 50px auto;
+    width: 50%; 
+    border: solid 1px;
+    text-align: center;
+}
+
+h1{
+    color: #28abb9;
+}
+
+span{
+    font-weight: bold;
+    color: #2d6187;
+}
+
+h2{
+    margin: 30px auto;
+    font-weight: normal;
+}
+
