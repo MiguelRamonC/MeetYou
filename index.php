@@ -10,11 +10,11 @@
     <header>
         MeetYou
     </header>
-    <form method="POST" action="app/home.php">
+    <form method="POST" action="home.php">
         <label for="nombre">Nombre</label><input id="nombre" name="nombre" type="text" required autofocus >
         <label for="apellido">Apellidos</label><input id="apellido" name="apellido" type="text" required >
         <label for="correo">Correo</label><input id="correo" type="email" name="correo" required>
-        <label for="edad">Edad</label><input id="edad" type="number" name="edad" required min="18" max="50">
+        <label for="edad">Edad</label><input id="edad" type="number" name="edad" required min="18">
         <label for="ciudad">Ciudad</label><input id="ciudad" name="ciudad" type="text" required>
         <input type="submit" value="Registrarse">
     </form>

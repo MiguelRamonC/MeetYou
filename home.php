@@ -11,7 +11,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../css/home.css">
+    <link rel="stylesheet" href="css/home.css">
     <title>Home</title>
 </head>
 <body>
@@ -23,6 +23,6 @@
         <h2><?php echo "<span>Ciudad: </span>".$ciudad;?></h2>
     </div>
 
-    <?php require_once ("app/pie.php"); ?>
+    <?php require_once ("include/pie.php"); ?>
 </body>
 </html>
