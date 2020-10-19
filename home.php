@@ -22,5 +22,7 @@
         <h2><?php echo "<span>Edad: </span>".$edad;?></h2>
         <h2><?php echo "<span>Ciudad: </span>".$ciudad;?></h2>
     </div>
+
+    <?php require_once ("app/pie.php"); ?>
 </body>
 </html>

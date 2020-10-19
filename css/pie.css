@@ -1,0 +1,24 @@
+
+footer{
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+    padding: 0px;
+}
+
+h4{
+    margin: 0px;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+    width: 100%;
+}
+
+li{
+    list-style-type: none;
+    margin: 0px auto;
+}
+
